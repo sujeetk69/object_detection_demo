@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>d1aca327d966d497.jpg</filename>
+	<path>/home/user/smartglass-projects/tf-training/object_detection_demo/data/images/test/d1aca327d966d497.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>197</ymin>
+			<xmax>685</xmax>
+			<ymax>960</ymax>
+		</bndbox>
+	</object>
+</annotation>

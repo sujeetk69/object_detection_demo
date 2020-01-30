@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_500</folder>
+	<filename>0b16bea6502617e4.jpg</filename>
+	<path>/home/user/smartglass-projects/tf-training/dataset/images_500/0b16bea6502617e4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>806</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>655</ymin>
+			<xmax>451</xmax>
+			<ymax>807</ymax>
+		</bndbox>
+	</object>
+</annotation>

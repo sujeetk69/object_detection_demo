@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_500</folder>
+	<filename>0d40722643c52515.jpg</filename>
+	<path>/home/user/smartglass-projects/tf-training/dataset/images_500/0d40722643c52515.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>go_slow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>602</xmin>
+			<ymin>149</ymin>
+			<xmax>806</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

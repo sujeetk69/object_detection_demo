@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_500</folder>
+	<filename>02e2b573125027d6.jpg</filename>
+	<path>/home/user/smartglass-projects/tf-training/dataset/images_500/02e2b573125027d6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cycle_route</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>616</xmin>
+			<ymin>680</ymin>
+			<xmax>771</xmax>
+			<ymax>794</ymax>
+		</bndbox>
+	</object>
+</annotation>

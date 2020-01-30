@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_500</folder>
+	<filename>00a74a1bda68fa20.jpg</filename>
+	<path>/home/user/smartglass-projects/tf-training/dataset/images_500/00a74a1bda68fa20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus_stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>210</ymin>
+			<xmax>450</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>

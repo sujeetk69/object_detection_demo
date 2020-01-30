@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_500</folder>
+	<filename>0b655cc671343cef.jpg</filename>
+	<path>/home/user/smartglass-projects/tf-training/dataset/images_500/0b655cc671343cef.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed_limit_30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>397</xmin>
+			<ymin>195</ymin>
+			<xmax>734</xmax>
+			<ymax>573</ymax>
+		</bndbox>
+	</object>
+</annotation>
