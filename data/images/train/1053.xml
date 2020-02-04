@@ -1,0 +1,26 @@
+<annotation>
+	<folder>My labelled images</folder>
+	<filename>1053.jpg</filename>
+	<path>C:\Surendra New PC\Surendra User\Personal\Learning folder\Machine Learning\DT UK ML\images\My labelled images\1053.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian_crossing_green</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>580</xmin>
+			<ymin>333</ymin>
+			<xmax>762</xmax>
+			<ymax>504</ymax>
+		</bndbox>
+	</object>
+</annotation>

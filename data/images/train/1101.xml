@@ -1,0 +1,38 @@
+<annotation>
+	<folder>My labelled images</folder>
+	<filename>1101.jpg</filename>
+	<path>C:\Surendra New PC\Surendra User\Personal\Learning folder\Machine Learning\DT UK ML\images\My labelled images\1101.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>237</ymin>
+			<xmax>310</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>right_direction</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>319</xmin>
+			<ymin>240</ymin>
+			<xmax>396</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

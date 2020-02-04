@@ -1,0 +1,38 @@
+<annotation>
+	<folder>My labelled images</folder>
+	<filename>1382.jpg</filename>
+	<path>C:\Surendra New PC\Surendra User\Personal\Learning folder\Machine Learning\DT UK ML\images\My labelled images\1382.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>466</xmin>
+			<ymin>22</ymin>
+			<xmax>706</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>right_turn_ahead</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>448</xmin>
+			<ymin>249</ymin>
+			<xmax>650</xmax>
+			<ymax>507</ymax>
+		</bndbox>
+	</object>
+</annotation>

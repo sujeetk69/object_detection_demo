@@ -1,0 +1,38 @@
+<annotation>
+	<folder>My labelled images</folder>
+	<filename>1105.jpg</filename>
+	<path>C:\Surendra New PC\Surendra User\Personal\Learning folder\Machine Learning\DT UK ML\images\My labelled images\1105.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>exit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>137</ymin>
+			<xmax>477</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>speed_limit_45</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>269</ymin>
+			<xmax>485</xmax>
+			<ymax>484</ymax>
+		</bndbox>
+	</object>
+</annotation>

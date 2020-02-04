@@ -1,0 +1,26 @@
+<annotation>
+	<folder>My labelled images</folder>
+	<filename>1217.jpg</filename>
+	<path>C:\Surendra New PC\Surendra User\Personal\Learning folder\Machine Learning\DT UK ML\images\My labelled images\1217.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>roundabout_ahead</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>104</ymin>
+			<xmax>733</xmax>
+			<ymax>560</ymax>
+		</bndbox>
+	</object>
+</annotation>

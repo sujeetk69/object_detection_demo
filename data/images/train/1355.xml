@@ -1,0 +1,26 @@
+<annotation>
+	<folder>My labelled images</folder>
+	<filename>1355.jpg</filename>
+	<path>C:\Surendra New PC\Surendra User\Personal\Learning folder\Machine Learning\DT UK ML\images\My labelled images\1355.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>men_at_work</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>278</ymin>
+			<xmax>537</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>set1_0_to_999</folder>
+	<filename>614.jpg</filename>
+	<path>/home/user/smartglass-projects/tf-training/traffic-dataset/set1_0_to_999/614.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>521</xmin>
+			<ymin>172</ymin>
+			<xmax>704</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>
